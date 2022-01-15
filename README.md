@@ -19,6 +19,6 @@ Was Created by Ernesto Ramirez.
 
 ## Tests
 
-https://ernest1589.github.io/Homework-Week2/
+https://github.com/ernest1589/New-Portfolio-HW7
 
-https://github.com/ernest1589/Homework-Week2
+https://ernest1589.github.io/New-Portfolio-HW7/
